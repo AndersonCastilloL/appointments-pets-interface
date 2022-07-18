@@ -98,7 +98,6 @@ const Search = ({
             >
               Sort By <BiCaretDown className="ml-2" />
             </button>
-
             <DropDown
               toggle={toggleSort}
               orderBy={orderBy}
